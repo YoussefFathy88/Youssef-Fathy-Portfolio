@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yousseffathy88.github.io/Youssef-Fathy-Portfolio/sitemap.xml
